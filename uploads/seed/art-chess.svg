@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1C1917"/><stop offset="1" stop-color="#44403C"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#sky)"/>
+  <circle cx="620" cy="150" r="70" fill="#FBBF24" opacity="0.9"/>
+  <circle cx="620" cy="150" r="95" fill="#FBBF24" opacity="0.25"/>
+  <rect x="160" y="130" width="480" height="340" rx="14" fill="#57534E" opacity="0.35"/><g fill="#FAFAF9"><path d="M250 420 v-40 h20 v-30 h-14 v-20 h10 v-24 h-10 v-22 h28 v22 h-10 v24 h10 v20 h-14 v30 h20 v40 Z"/><path d="M380 420 v-40 h20 v-30 h-30 c0-24 10-30 10-46 h20 c0 16 10 22 10 46 h-30 v30 h20 v40 Z" opacity="0.92"/></g><g fill="#0C0A09"><path d="M500 420 v-40 h20 v-30 h-14 v-20 h10 v-24 h-10 v-22 h28 v22 h-10 v24 h10 v20 h-14 v30 h20 v40 Z" opacity="0.95"/><path d="M620 420 v-40 h20 v-30 h-30 c0-24 10-30 10-46 h20 c0 16 10 22 10 46 h-30 v30 h20 v40 Z"/></g>
+  <path d="M0 430 Q 200 330 400 420 T 800 400 V 600 H 0 Z" fill="#292524"/>
+  <path d="M0 500 Q 250 420 500 490 T 800 470 V 600 H 0 Z" fill="#1C1917"/>
+</svg>

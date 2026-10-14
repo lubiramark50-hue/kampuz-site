@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#312E81"/><stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#sky)"/>
+  <circle cx="620" cy="150" r="70" fill="#FCD34D" opacity="0.9"/>
+  <circle cx="620" cy="150" r="95" fill="#FCD34D" opacity="0.25"/>
+  <rect x="60" y="240" width="120" height="220" fill="#1E1B4B" opacity="0.9"/><rect x="220" y="180" width="140" height="280" fill="#1E1B4B" opacity="0.75"/><rect x="400" y="260" width="110" height="200" fill="#1E1B4B" opacity="0.9"/><rect x="550" y="210" width="150" height="250" fill="#1E1B4B" opacity="0.8"/><g opacity="0.85"><rect x="90" y="270" width="16" height="16" fill="#FDE047"/><rect x="120" y="270" width="16" height="16" fill="#F472B6"/><rect x="250" y="210" width="16" height="16" fill="#38BDF8"/><rect x="290" y="240" width="16" height="16" fill="#FDE047"/><rect x="430" y="290" width="16" height="16" fill="#4ADE80"/><rect x="460" y="320" width="16" height="16" fill="#FDE047"/><rect x="580" y="240" width="16" height="16" fill="#FB7185"/><rect x="620" y="270" width="16" height="16" fill="#38BDF8"/></g>
+  <path d="M0 430 Q 200 330 400 420 T 800 400 V 600 H 0 Z" fill="#4C1D95"/>
+  <path d="M0 500 Q 250 420 500 490 T 800 470 V 600 H 0 Z" fill="#2E1065"/>
+</svg>
