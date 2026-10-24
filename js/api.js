@@ -1,6 +1,6 @@
-/* Kampuz — client API with auth, token refresh, contract adapters and graceful degradation */
+/* Gen Z — client API with auth, token refresh, contract adapters and graceful degradation */
 
-const BASE = '';
+const BASE = 'https://rentpay.site';
 const store = {
   access: null, refresh: null, user: null,
 };

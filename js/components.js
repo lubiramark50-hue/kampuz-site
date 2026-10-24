@@ -1,4 +1,4 @@
-/* Kampuz — reusable components (post card, composer, user rows) */
+/* Gen Z — reusable components (post card, composer, user rows) */
 import { api, session } from './api.js';
 import { esc, rich, h, avatar, timeAgo, fmtCount, icon, toast, lightbox, confirmDialog, nav } from './ui.js';
 import { connectChat } from './realtime.js';

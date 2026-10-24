@@ -1,4 +1,4 @@
-/* Kampuz — SPA router + app shell */
+/* Gen Z — SPA router + app shell */
 import { api, session, loadSession, getTheme, setTheme, clearSession, saveSession } from './api.js';
 import { esc, h, icon, toast, avatar, timeAgo, nav } from './ui.js';
 import { renderAuth } from './views/auth.js';

@@ -1,4 +1,4 @@
-/* Kampuz over-the-air updater.
+/* Gen Z over-the-air updater.
  *
  * A deploy publishes /version.json. This script notices a newer build and applies it without
  * ever yanking the page out from under someone:
@@ -72,7 +72,7 @@
     }
     banner.querySelector('.kz-update-msg').textContent = stuck
       ? 'An update is ready but could not be applied. Refresh the page again, or clear site data if it keeps happening.'
-      : (pending.notes ? `Update ready: ${pending.notes}` : 'A new version of Kampuz is ready.');
+      : (pending.notes ? `Update ready: ${pending.notes}` : 'A new version of Gen Z is ready.');
   }
 
   async function check() {

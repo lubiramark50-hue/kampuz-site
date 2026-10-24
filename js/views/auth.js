@@ -1,4 +1,4 @@
-/* Kampuz — Auth view (login + register) */
+/* Gen Z — Auth view (login + register) */
 import { api, saveSession, setTheme } from '../api.js';
 import { esc, h, icon, toast } from '../ui.js';
 import { BRAND, logoMark, wordmark } from '../brand.js';
