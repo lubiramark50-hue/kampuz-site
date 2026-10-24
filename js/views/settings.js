@@ -1,5 +1,5 @@
 import { BRAND } from '../brand.js';
-/* Gen Z — Settings: profile, appearance, screen time, premium, danger zone */
+/* Kampuz — Settings: profile, appearance, screen time, premium, danger zone */
 import { api, session, getTheme, setTheme } from '../api.js';
 import { esc, h, icon, toast, fmtDuration, confirmDialog, avatar } from '../ui.js';
 import { editProfileDialog } from './profile.js';

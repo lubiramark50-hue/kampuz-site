@@ -1,4 +1,4 @@
-/* Gen Z — Search view */
+/* Kampuz — Search view */
 import { BRAND } from '../brand.js';
 import { api } from '../api.js';
 import { esc, h, icon, emptyState, nav, fmtCount } from '../ui.js';

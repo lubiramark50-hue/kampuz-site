@@ -1,4 +1,4 @@
-/* Gen Z — command palette (Ctrl/⌘+K) and PWA install prompt. */
+/* Kampuz — command palette (Ctrl/⌘+K) and PWA install prompt. */
 import { BRAND } from './brand.js';
 import { icons } from './icons.js';
 import { getTheme, setTheme } from './api.js';
